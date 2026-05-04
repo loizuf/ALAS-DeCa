@@ -1,0 +1,6 @@
+{
+  "A": {"x": 150, "y": 180, "size": 80, "label": "Alpha",  "color": "#4A90D9", "weight": 1.0},
+  "B": {"x": 400, "y": 120, "size": 60, "label": "Beta",   "color": "#7B68EE", "weight": 2.5},
+  "C": {"x": 200, "y": 380, "size": 70, "label": "Gamma",  "color": "#50C878", "weight": 0.8},
+  "D": {"x": 500, "y": 350, "size": 65, "label": "Delta",  "color": "#FF6B6B", "weight": 3.1}
+}

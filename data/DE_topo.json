@@ -1,0 +1,18 @@
+{
+  "SH": ["HH", "NI", "MV"],
+  "HH": ["SH", "NI"],
+  "MV": ["SH", "BB", "NI"],
+  "NI": ["SH", "HH", "MV", "BB", "ST", "TH", "HE", "NW", "HB"],
+  "HB": ["NI"],
+  "BB": ["MV", "NI", "ST", "SN", "BE"],
+  "BE": ["BB"],
+  "ST": ["NI", "BB", "SN", "TH"],
+  "SN": ["BB", "ST", "TH", "BY"],
+  "TH": ["NI", "ST", "SN", "BY", "HE"],
+  "NW": ["NI", "HE", "RP"],
+  "HE": ["NW", "NI", "TH", "BY", "BW", "RP"],
+  "RP": ["NW", "HE", "BW", "SL"],
+  "SL": ["RP"],
+  "BW": ["RP", "HE", "BY"],
+  "BY": ["BW", "HE", "TH", "SN"]
+}

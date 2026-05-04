@@ -1,0 +1,18 @@
+{
+  "SH": {"x": 400, "y": 80,  "size": 70, "label": "SH", "color": "#4A90D9", "weight": 2.96},
+  "HH": {"x": 450, "y": 140, "size": 50, "label": "HH", "color": "#7B68EE", "weight": 1.86},
+  "MV": {"x": 520, "y": 80,  "size": 70, "label": "MV", "color": "#50C878", "weight": 1.57},
+  "NI": {"x": 400, "y": 200, "size": 110, "label": "NI", "color": "#FF6B6B", "weight": 8.00},
+  "HB": {"x": 340, "y": 180, "size": 40, "label": "HB", "color": "#FFA500", "weight": 0.70},
+  "BB": {"x": 560, "y": 200, "size": 70, "label": "BB", "color": "#20B2AA", "weight": 2.56},
+  "BE": {"x": 600, "y": 220, "size": 40, "label": "BE", "color": "#DC143C", "weight": 3.69},
+  "ST": {"x": 500, "y": 260, "size": 70, "label": "ST", "color": "#9370DB", "weight": 2.14},
+  "SN": {"x": 580, "y": 320, "size": 80, "label": "SN", "color": "#3CB371", "weight": 4.04},
+  "TH": {"x": 480, "y": 330, "size": 70, "label": "TH", "color": "#FF8C00", "weight": 2.10},
+  "NW": {"x": 300, "y": 260, "size": 120, "label": "NW", "color": "#1E90FF", "weight": 18.03},
+  "HE": {"x": 380, "y": 340, "size": 90, "label": "HE", "color": "#8A2BE2", "weight": 6.28},
+  "RP": {"x": 320, "y": 400, "size": 80, "label": "RP", "color": "#228B22", "weight": 4.13},
+  "SL": {"x": 260, "y": 420, "size": 40, "label": "SL", "color": "#B22222", "weight": 1.01},
+  "BW": {"x": 420, "y": 460, "size": 110, "label": "BW", "color": "#DAA520", "weight": 11.25},
+  "BY": {"x": 560, "y": 460, "size": 130, "label": "BY", "color": "#2E8B57", "weight": 13.25}
+}
