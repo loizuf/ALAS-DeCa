@@ -3,6 +3,13 @@
 A Python script for generating cartograms using linear programming
 techniques.
 
+## Demo Videos
+
+[![Creating a Demers Cartogram of the contiguous US states with "ALAS, DeCa"](https://img.youtube.com/vi/jCOi9yPnwns/maxresdefault.jpg)](https://youtu.be/jCOi9yPnwns)
+
+[![ALAS, DeCa — A case study walk through](https://img.youtube.com/vi/kY48jtvkVkg/maxresdefault.jpg)](https://youtu.be/kY48jtvkVkg)
+
+
 ## Requirements
 
 -   Python 3.8 or higher\
