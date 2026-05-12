@@ -1,4 +1,4 @@
-# ALASDECA
+# ALAS, DeCa
 
 A Python script for generating cartograms using linear programming
 techniques.
