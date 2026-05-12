@@ -77,6 +77,8 @@ python alasdeca.py
 -   PuLP uses a default solver (CBC) that should work out of the box.\
     Advanced configurations may require installing additional solvers.
 
+-   The data available in this repository is largely synthetic and only sed as an example. This implementation is still a prototype and lacks proper normalization of loaded data, therefore arbitrary data imported into the tool might not be visualied properly.
+
 ## Project Structure
 
     .
