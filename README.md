@@ -1,7 +1,6 @@
 # ALAS, DeCa
 
-A Python script for generating cartograms using linear programming
-techniques.
+An algorithmically assisted editor to create, explore and edit Demers Cartograms.
 
 ## Demo Videos
 
