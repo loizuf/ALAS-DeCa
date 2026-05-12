@@ -4,7 +4,8 @@ An algorithmically assisted editor to create, explore and edit Demers Cartograms
 
 ## Demo Videos
 
-A free form exploration and creation of a Demers cartogram for the contiguous US states | A detailed walk through of the case study explained in the CCCG 2026 submission :-------------------------:|:-------------------------:
+A free form exploration and creation of a Demers cartogram for the contiguous US states | A detailed walk through of the case study explained in the CCCG 2026 submission
+:-------------------------:|:-------------------------:
 [![Creating a Demers Cartogram of the contiguous US states with "ALAS, DeCa"](https://img.youtube.com/vi/jCOi9yPnwns/maxresdefault.jpg)](https://youtu.be/jCOi9yPnwns) | [![ALAS, DeCa — A case study walk through](https://img.youtube.com/vi/kY48jtvkVkg/maxresdefault.jpg)](https://youtu.be/kY48jtvkVkg)
 
 
